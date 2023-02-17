@@ -1,0 +1,11 @@
+{
+    "api_endpoint_host": "127.0.0.1",
+    "api_endpoint_port": "8080",
+    "opeai_model": "text-davinci-003",
+    "openai_api_key": "非必需，gpt-3密钥",
+    "openai_default_temperature": "0.7",
+    "openai_max_tokens": "4000",
+    "email":"openai的邮箱地址",
+    "password":"openai密码",
+    "//openai_custom_base_prompt": "This is a custom prompt. You can use it to generate text based on your own prompt."
+}
