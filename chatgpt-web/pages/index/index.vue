@@ -112,7 +112,7 @@
 		},
 		data() {
 			return {
-				url: "http://chat.gasontech.com/chatgpt",
+				url: "http://127.0.0.1:8080",
 				queuenum: 0,
 				queueInterval: '',
 				answersetInterval: '',
